@@ -2,9 +2,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner entrada=new Scanner(System.in);
-        System.out.println("Introduce un valor");
+        System.out.println("Introduce el primer valor");
         int a = entrada.nextInt();
-        System.out.println("introduce otro valor");
+        System.out.println("introduce el segundo valor");
         int b = entrada.nextInt();
         if (a<b){
             System.out.println(b+" Es el mayor");
