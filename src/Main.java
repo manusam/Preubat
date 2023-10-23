@@ -11,7 +11,7 @@ public class Main {
         }else if(a>b){
             System.out.println(a+" Es el mayor");
         }else{
-            System.out.println("error");
+            System.out.println("Son iguales");
         }
 
     }
