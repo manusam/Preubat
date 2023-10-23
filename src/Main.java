@@ -20,6 +20,7 @@ public class Main {
         }else{
             System.out.println("Son iguales");
         }
+        System.out.println("Sensual");
 
     }
 }
