@@ -13,6 +13,13 @@ public class Main {
         }else{
             System.out.println("Son iguales");
         }
+        if (a<b){
+            System.out.println(a+" Es el menor");
+        }else if(a>b){
+            System.out.println(b+" Es el menor");
+        }else{
+            System.out.println("Son iguales");
+        }
 
     }
 }
